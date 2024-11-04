@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kontak</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: black;
+      color: #eaeaea;
+      display: flex;
+      align-items: center;
+      padding: 20px;
+	  animation: shadowMove 3s infinite linear;
+    }
+    a {
+      color: #eaeaea;
+      text-decoration: none;
+      margin-right: 1px;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    main {
+      padding: 20px;
+      text-align: left;
+    }
+    fieldset {
+      border: 1px solid #ccc;
+      padding: 20px;
+      width: 100%;
+      margin: 0 auto;
+    }
+    legend {
+      font-size: 1.2em;
+      font-weight: bold;
+      padding: 0 10px;
+    }
+    label, button {
+      display: block;
+      margin-bottom: 10px;
+      text-align: left;
+    }
+    input {
+      width: 50%;
+      padding: 10px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    textarea {
+      width: 80%;
+      padding: 10px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    button {
+      background-color: black;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #333;
+    }
+    footer {
+      background-color: black;
+      color: white;
+      padding: 10px;
+      text-align: center;
+      width: 100%;
+	  animation: shadowMove 3s infinite linear;
+    }
+	@keyframes shadowMove {
+            0% {
+               box-shadow: -20px 0px 20px red; 
+            }
+			50%{
+				box-shadow: 20px 0px 20px blue;
+				}
+            100% {
+                box-shadow: -20px 0px 20px red;  
+            }
+        }
+  </style>
+</head>
+<body>
+
+  <header>
+    <nav>
+      <a href="index.html">Beranda</a>
+      <a href="tentang.html">Tentang</a>
+      <a href="kontak.html">Kontak</a>
+      <a href="cv.html">CV</a>
+    </nav>
+  </header>
+  <hr>
+  <main>
+    <form action="mailto:imikhwan8@gmail.com" method="post" enctype="text/plain">
+      <fieldset>
+        <legend>Kontak Saya</legend>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" placeholder="Masukkan email Anda" required>
+
+        <label for="pesan">Pesan:</label>
+        <textarea id="pesan" name="pesan" rows="4" placeholder="Tulis pesan Anda di sini" required></textarea>
+
+        <button type="submit">Kirim</button>
+      </fieldset>
+    </form>
+  </main>
+  <hr>
+  <footer>
+    <p>&copy; M. Ikhwan Website 2024</p>
+  </footer>
+
+</body>
+</html>

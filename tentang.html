@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>WEB TENTANG</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+   header {
+      background: black;
+      color: #eaeaea;
+      display: flex;
+      align-items: center;
+      padding: 20px;
+	  animation: shadowMove 3s infinite linear;
+    }
+    a {
+      color: #eaeaea;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    section, main {
+      text-align: left;
+      padding: 20px;
+    }
+    footer {
+      background: black;
+      color: white;
+      padding: 10px;
+      text-align: center;
+	  animation: shadowMove 3s infinite linear;
+    }
+	@keyframes shadowMove {
+            0% {
+               box-shadow: -20px 0px 20px red; 
+            }
+			50%{
+				box-shadow: 20px 0px 20px blue;
+				}
+            100% {
+                box-shadow: -20px 0px 20px red;  
+            }
+        }
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+		<a href="index.html">Beranda</a>
+		<a href="tentang.html">Tentang</a>
+		<a href="kontak.html">Kontak</a>
+		<a href="cv.html">CV</a>
+    </nav>
+  </header>
+  
+  <hr>
+  
+  <section>
+    <h2>Tentang Saya</h2>
+    <article>
+      Hi, bertemu lagi dengan saya. Saya mau bercerita tentang diri saya. Saya adalah Mahasiswa yang sedang belajar HTML demi masa depan yang layak, tentu ini belum cukup. Masih sangat jauh jalan yang harus ditempuh untuk menguasai ini semua. Pesan dari saya untuk teman-teman semua: Tetap semangat. Berikut adalah contoh Tugas Program saya menggunakan VB.NET.
+    </article>
+  </section>
+
+
+  <div>
+    <main>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/P-Zrj7wOGys" 
+              title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+      </iframe>
+    </main>
+  </div>
+
+  <hr>
+
+  <footer>
+    <p>&copy; M. Ikhwan Website 2024</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>WEB INDEX</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .gambar-bulat {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+    header {
+      background: black;
+      color: #eaeaea;
+      display: flex;
+      align-items: center;
+      padding: 20px;
+	  animation: shadowMove 3s infinite linear;
+    }
+    a {
+      color: #eaeaea;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+	
+    section, main, footer {
+      text-align: center;
+      background: white;
+	  
+    }
+    table {
+      margin: 0 auto;
+      border-collapse: collapse;
+      width: 50%;
+    }
+    table, th, td {
+      border: 1px solid black;
+    }
+    th, td {
+      padding: 10px;
+      text-align: left;
+    }
+    footer {
+      background: black;
+      color: white;
+      padding: 10px;
+	  animation: shadowMove 3s infinite linear;
+    }
+	@keyframes shadowMove {
+             0% {
+               box-shadow: -20px 0px 20px red; 
+            }
+			50%{
+				box-shadow: 20px 0px 20px blue;
+				}
+            100% {
+                box-shadow: -20px 0px 20px red;  
+            }
+        }
+  </style>
+</head>
+<body>
+
+  <header>
+    <nav>
+		<a href="index.html">Beranda</a>
+		<a href="tentang.html">Tentang</a>
+		<a href="kontak.html">Kontak</a>
+		<a href="cv.html">CV</a>
+    </nav>
+  </header>
+  <hr>
+  
+  <section>
+    <center>
+      <img src="Logo.jpeg" alt="Logo" class="gambar-bulat"><br>
+      <h2>M. IKHWAN</h2>
+      <p>(Mahasiswa UIN SMDD)</p>
+    </center>
+  </section>
+
+  <hr>
+
+  <div>
+    <main>
+      <center>
+        <h4>Skill yang Saya Kuasai</h4>
+        <p>Hi, Saya seorang Mahasiswa UIN SMDD Bukittinggi Semester 5</p>
+        <table>
+          <tr>
+            <th>Hard Skill</th>
+            <th>Pengalaman</th>
+          </tr>
+          <tr>
+            <td>
+              <ul>
+                <li>HTML</li>
+                <li>Desain</li>
+                <li>Musik</li>
+              </ul>
+            </td>
+            <td>
+              <ol>
+                <li>Saya pernah mengikuti Paskibraka saat SMA</li>
+                <li>Saat SMA, saya dan teman-teman pernah membentuk sebuah grup band</li>
+              </ol>
+            </td>
+          </tr>
+        </table>
+      </center>
+    </main>
+  </div>
+
+  <hr>
+
+  <footer>
+    <p>&copy; M. Ikhwan Website 2024</p>
+  </footer>
+  
+</body>
+</html>
