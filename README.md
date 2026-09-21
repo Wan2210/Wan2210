@@ -191,43 +191,12 @@ Features:
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wan2210&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wan2210&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Wan2210&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wan2210&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Wan2210/Wan2210/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
@@ -256,21 +225,6 @@ Features:
 
 ---
 
-# 📂 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Wan2210">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Wan2210&repo=PROJECT_1&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Wan2210">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Wan2210&repo=PROJECT_2&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
 
 # 💡 Skills
 
