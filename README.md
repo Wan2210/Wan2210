@@ -122,7 +122,7 @@ I enjoy building digital applications, learning new technologies, and turning id
 
 ### 🌐 Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=laravel,codeigniter,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap,mysql,git,github,vscode" />
 
 <br><br>
 
