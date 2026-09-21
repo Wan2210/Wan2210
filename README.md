@@ -227,7 +227,8 @@ Features:
 
 
 # 💡 Skills
-
+<div align="center">
+  
 | Category       | Skills                               |
 | -------------- | ------------------------------------ |
 | 💻 Programming | PHP, Python, C++, Java               |
@@ -238,6 +239,8 @@ Features:
 | 🌐 Networking  | LAN, IP, Network Troubleshooting     |
 | 🛠️ Tools      | Git, GitHub, VS Code, XAMPP, Laragon |
 | 🖥️ OS         | Windows, Linux                       |
+
+</div>
 
 ---
 
