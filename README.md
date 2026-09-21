@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **M. Ikhwan**, an Informatics and Computer Engineering student with an interest in technology, programming, web development, mobile application development, databases, and computer networking.
+Hi! I'm **M. Ikhwan**, a graduate of **Informatics and Computer Engineering Education (PTIK)** with a strong interest in technology, programming, web development, mobile app development, databases, and computer networking. 
 
 I enjoy building digital applications, learning new technologies, and turning ideas into useful projects.
 
