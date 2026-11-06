@@ -1,255 +1,185 @@
-<div align="center">
+ <div align="center">
 
-<!-- 3D HEADER -->
+<img src="./asset/profile.png" width="160" height="160" alt="M. Ikhwan Profile"/>
 
+# Hi, I'm M. Ikhwan 👋
 
-<br>
+### Informatics & Computer Engineering
 
-<!-- PROFILE PHOTO -->
+**Web Developer | Mobile App Developer | Laravel Developer**
 
-<div align="center">
-  <img src="./asset/profile.png" width="160" height="160" style="border-radius: 50%; object-fit: cover;">
-</div>
+Building useful digital products through code, creativity, and continuous learning.
 
-<br><br>
+<br/>
 
-# 👋 Hi, I'm M. Ikhwan
+<img src="https://komarev.com/ghpvc/?username=Wan2210&label=Profile%20Views&color=16a34a&style=for-the-badge" alt="Profile Views"/>
 
-### 🎓 Informatics & Computer Engineering
+<br/><br/>
 
-### 💻 Web Developer | 📱 Mobile App Developer | 🌐 IT Enthusiast
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Wan2210&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Wan2210-181717?style=for-the-badge&logo=github)](https://github.com/Wan2210)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-Hi! I'm **M. Ikhwan**, a graduate of **Informatics and Computer Engineering Education (PTIK)** with a strong interest in technology, programming, web development, mobile app development, databases, and computer networking. 
+Hello! I'm **M. Ikhwan**, a graduate of Informatics and Computer Engineering Education (PTIK).
 
-I enjoy building digital applications, learning new technologies, and turning ideas into useful projects.
+I'm passionate about software development, especially web applications, mobile applications, database management, and information technology.
 
-```text
-🎓 Informatics & Computer Engineering
-💻 Web Development
-📱 Mobile Application Development
-🗄️ Database Management
-🌐 Computer Networking
-🐍 Python Programming
-☕ Java Programming
-⚙️ C++ Programming
-```
+I enjoy transforming ideas into practical digital solutions, exploring modern technologies, and continuously improving my development skills.
+
+- 🎓 Informatics & Computer Engineering Education
+- 💻 Interested in Web Application Development
+- 📱 Interested in Android & Mobile Development
+- 🚀 Currently developing **Daylivery**
+- 🗄️ Experienced with Laravel, PHP, and MySQL
+- 🌱 Always learning and exploring new technologies
 
 ---
 
-## 🚀 What I Do
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+## 🚀 Featured Projects
 
-### 💻 Web Development
+### 🛵 Daylivery — Food Delivery Application
 
-* PHP
-* Laravel
-* CodeIgniter
-* HTML
-* CSS
-* JavaScript
-* MySQL
-* XAMPP / Laragon
+**Daylivery** is a food delivery platform designed to connect customers, sellers, and drivers through an integrated mobile application.
 
-</td>
+**Technologies:**
+- Flutter & Dart
+- Laravel & PHP
+- MySQL
+- REST API
+- Firebase Cloud Messaging
+- OpenStreetMap / OSRM
 
-<td width="50%">
-
-### 📱 Mobile Development
-
-* MIT App Inventor
-* Android Application
-* Interactive Learning Media
-* Speech Recognition
-* Text-to-Speech
-* Mobile UI Design
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Networking
-
-* Computer Networks
-* Network Configuration
-* LAN
-* IP Addressing
-* Troubleshooting
-* Network Fundamentals
-
-</td>
-
-<td width="50%">
-
-### 🧠 Programming
-
-* Python
-* C++
-* Java
-* PHP
-* SQL
-* Algorithm & Programming
-
-</td>
-</tr>
-</table>
-</div>
-
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,php,html,css,js" />
-
-<br><br>
-
-### 🌐 Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=laravel,bootstrap,mysql,git,github,vscode" />
-
-<br><br>
-
-### 🖥️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=windows,linux,androidstudio,github" />
-
-</div>
+**Main Features:**
+- Customer, Seller, and Driver roles
+- Food ordering and order management
+- Driver location tracking
+- Delivery management
+- Push notifications
+- Admin dashboard
 
 ---
 
-# 📱 Mobile Development
+### 📚 Interactive Tajwid Learning Application
 
-<div align="center">
+An Android-based interactive learning application designed to help students understand and practice Quranic recitation rules.
 
-<img src="https://img.shields.io/badge/MIT%20App%20Inventor-20232A?style=for-the-badge&logo=android&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Speech%20Recognition-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+**Technologies:**
+- MIT App Inventor
+- Android
+- Speech Recognition
+- Text-to-Speech
 
-</div>
-
-### 📚 Featured Application
-
-**Interactive Al-Qur'an Hadith Learning Media**
-
-Aplikasi pembelajaran interaktif berbasis Android untuk membantu peserta didik mempelajari materi **Ilmu Tajwid**.
-
-Features:
-
-* 📖 Materi Ilmu Tajwid
-* 🔊 Audio Pelafalan
-* 🎤 Latihan Baca
-* 🧠 Quiz Interaktif
-* 📊 Automatic Score
-* 📱 Android Application
-* 🎯 Interactive Learning
+**Features:**
+- 📖 Interactive Tajwid Materials
+- 🔊 Audio Pronunciation
+- 🎤 Reading Practice
+- 🧠 Interactive Quizzes
+- 📊 Automatic Scoring
 
 ---
-
-# 🌐 Web Development Projects
 
 ### 🏥 UKS Management System
 
-A web-based application designed to assist school health unit administration.
+A web-based application designed to support school health unit administration and data management.
 
-**Technology:**
+**Technologies:**
+- Laravel
+- PHP
+- MySQL
+- HTML, CSS, JavaScript
 
-```text
-Laravel
-PHP
-MySQL
-HTML
-CSS
-JavaScript
-XAMPP
-```
-
-Features:
-
-* 👨‍⚕️ Patient Visit Management
-* 💊 Medicine Inventory
-* 📋 Visit Records
-* 📊 Reports
-* 🔐 User Management
-* 🗄️ MySQL Database
+**Features:**
+- Patient Visit Management
+- Medicine Inventory
+- Medical Visit Records
+- Reports and Statistics
+- User Management
 
 ---
 
+## 🛠️ Tech Stack
 
-# 🔥 GitHub Streak
+### Programming Languages
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Wan2210&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=php,python,java,cpp,html,css,js,dart" />
+
+</div>
+
+### Frameworks & Libraries
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap" />
+
+</div>
+
+### Database & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,windows,linux" />
 
 </div>
 
 ---
 
-# 🎯 Current Goals
+## 💻 Technical Skills
 
-```text
-[████████████████░░░░] Web Development
-[███████████████░░░░░] Mobile Development
-[██████████████░░░░░░] Laravel
-[██████████████░░░░░░] Python
-[█████████████░░░░░░░] Computer Networking
-[████████████░░░░░░░░] Open Source
-```
-
-### 🚀 I'm currently learning
-
-* 🔥 Advanced Laravel
-* 🐘 PHP Development
-* 🗄️ Database Management
-* 🐍 Python
-* 🌐 Computer Networking
-* 📱 Android Development
-* 🤖 AI-assisted Application Development
+| Category | Technologies |
+|---|---|
+| Programming | PHP, Python, Java, C++, Dart |
+| Web Development | HTML, CSS, JavaScript |
+| Frameworks | Laravel, CodeIgniter, Flutter |
+| Mobile Development | Flutter, MIT App Inventor, Android |
+| Database | MySQL, SQL |
+| Networking | LAN, IP Addressing, Troubleshooting |
+| Tools | Git, GitHub, VS Code, XAMPP, Laragon |
+| Platforms | Windows, Linux, Android |
 
 ---
 
+## 📊 GitHub Statistics
 
-# 💡 Skills
 <div align="center">
-  
-| Category       | Skills                               |
-| -------------- | ------------------------------------ |
-| 💻 Programming | PHP, Python, C++, Java               |
-| 🌐 Web         | HTML, CSS, JavaScript                |
-| 🚀 Framework   | Laravel, CodeIgniter                 |
-| 🗄️ Database   | MySQL, SQL                           |
-| 📱 Mobile      | MIT App Inventor, Android            |
-| 🌐 Networking  | LAN, IP, Network Troubleshooting     |
-| 🛠️ Tools      | Git, GitHub, VS Code, XAMPP, Laragon |
-| 🖥️ OS         | Windows, Linux                       |
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Wan2210&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wan2210&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Wan2210&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+## 🎯 Current Focus
+
+I'm currently focusing on:
+
+- 🚀 Advanced Laravel Development
+- 📱 Flutter Mobile Application Development
+- 🔥 REST API Integration
+- 🗄️ Database Architecture
+- 🔔 Firebase Cloud Messaging
+- 🌐 Application Deployment
+- 🔐 Application Security
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Wan2210">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -258,10 +188,10 @@ Features:
 
 <div align="center">
 
-### 💻 "Code. Learn. Build. Repeat."
+### 💡 Code. Learn. Build. Repeat.
 
-<br>
+*Turning ideas into digital solutions.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:16a34a,100:0f172a&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
